@@ -15,5 +15,5 @@
 homepage: "https://www.fatmedia.io"
 documentation: "https://github.com/fatmedia-io/gtm-fatmedia"
 versions:
-  - sha: 56b7e3d9ed2ad5eb4e0a11a70a04d4c23df39719
+  - sha: 2c5f348c8e11731cbfd4137fca731372b26d7241
     changeNotes: Initial commit
